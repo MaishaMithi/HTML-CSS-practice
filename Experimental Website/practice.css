@@ -1,0 +1,32 @@
+h1 
+  {
+    margin: 0 0 35px 0;
+  } 
+h2 
+  {
+    margin: 25px 0 0 0;
+  }
+  
+body
+  {
+    background-color: rgb(196, 232, 253);
+  }
+div
+  {
+    background-color: lightpink;
+    max-width: 320px;
+    padding-block: 30px;
+    margin-block: 100px;
+    border-style: inset;
+    border-spacing: 100px;
+    border-width: 5px;
+    border-color: rgba(135, 135, 238, 0.477);
+  }
+  div
+  {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande';
+    font-style: oblique;
+    font-size: 0.8em;
+    font-weight: bold;
+    font-variant: small-caps;
+  }
